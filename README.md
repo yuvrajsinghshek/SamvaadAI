@@ -21,8 +21,8 @@ SamvaadAI is a sophisticated, AI-powered platform designed by **Yuvraj Singh She
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/[your-username]/new_chatbotssssss.git
-   cd new_chatbotssssss
+   git clone https://github.com/[your-username]/samvaadai.git
+   cd samvaadai
    ```
 
 2. **Install dependencies**:
